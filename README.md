@@ -3,8 +3,8 @@
 ## Overview
 As a dedicated Data Analyst, I have put together extensive Power BI reports, crucial for aiding various departments in their decision-making processes. These reports span critical business areas including Finance, Sales, Supply Chain, and Marketing, and feature an Executive summary, tracking Key Performance Indicators (KPIs) across the organization.
 
-🔗 Explore the live Power BI project: [Business Insights 360](https://app.powerbi.com/groups/me/reports/3ca47dfa-2efc-43c0-93ce-d7f6d80bd537/ReportSectione5d283e3060cdd7a52e4?experience=power-bi)
-## Detailed Views
+🔗 Explore the live Power BI project: [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNzA2MTU5ZmYtZjNiOC00ZjdiLThmNGMtMTcwZWE3MGZhMmEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection2eccf0cbad29d2728add)
+()## Detailed Views
 📈 **Financial Analysis**: Investigate in-depth Profit and Loss statements, observe Net Sales trends, and assess the best-performing Products and Customers.
 
 💼 **Sales Insights**: Delve into the performance metrics of Customers and Products, focusing on Net Sales, Gross Margin percentages, and unit economics including COGS and deductions.
